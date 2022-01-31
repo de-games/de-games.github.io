@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3a3b235.js",
-    "index.html": "/index.html",
-    "main.d3a3b235.js.map": "/static/js/main.d3a3b235.js.map"
+    "main.js": "/internal/android/static/js/main.d3a3b235.js",
+    "index.html": "/internal/android/index.html",
+    "main.d3a3b235.js.map": "/internal/android/static/js/main.d3a3b235.js.map"
   },
   "entrypoints": [
     "static/js/main.d3a3b235.js"
