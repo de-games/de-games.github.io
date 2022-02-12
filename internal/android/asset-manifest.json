@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/internal/android/static/js/main.43cf2427.js",
+    "main.js": "/internal/android/static/js/main.975046f9.js",
     "index.html": "/internal/android/index.html",
-    "main.43cf2427.js.map": "/internal/android/static/js/main.43cf2427.js.map"
+    "main.975046f9.js.map": "/internal/android/static/js/main.975046f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.43cf2427.js"
+    "static/js/main.975046f9.js"
   ]
 }
