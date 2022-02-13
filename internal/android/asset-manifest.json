@@ -1,19 +1,10 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.js": "/internal/android/static/js/main.a1ac4fe7.js",
     "index.html": "/internal/android/index.html",
     "main.a1ac4fe7.js.map": "/internal/android/static/js/main.a1ac4fe7.js.map"
   },
   "entrypoints": [
     "static/js/main.a1ac4fe7.js"
-=======
-    "main.js": "/internal/android/static/js/main.3655acc4.js",
-    "index.html": "/internal/android/index.html",
-    "main.3655acc4.js.map": "/internal/android/static/js/main.3655acc4.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.3655acc4.js"
->>>>>>> b17c656087c6691078b5f15074e0738aed326e94
   ]
 }
