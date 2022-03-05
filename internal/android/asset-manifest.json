@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/internal/android/static/css/main.fe4f6ec7.css",
-    "main.js": "/internal/android/static/js/main.5fe451f2.js",
+    "main.css": "/internal/android/static/css/main.137eb764.css",
+    "main.js": "/internal/android/static/js/main.d1b5e4f8.js",
     "index.html": "/internal/android/index.html",
-    "main.fe4f6ec7.css.map": "/internal/android/static/css/main.fe4f6ec7.css.map",
-    "main.5fe451f2.js.map": "/internal/android/static/js/main.5fe451f2.js.map"
+    "main.137eb764.css.map": "/internal/android/static/css/main.137eb764.css.map",
+    "main.d1b5e4f8.js.map": "/internal/android/static/js/main.d1b5e4f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe4f6ec7.css",
-    "static/js/main.5fe451f2.js"
+    "static/css/main.137eb764.css",
+    "static/js/main.d1b5e4f8.js"
   ]
 }
